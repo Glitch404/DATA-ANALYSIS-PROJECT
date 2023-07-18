@@ -30,9 +30,7 @@ SUPERSTORE DATA ANAYSIS.ipynb
 Documentation • Share feedback
 BreadcrumbsSuperstore_Analysis
 /README.md
-Latest commit
-alairdata
-alairdata
+
 Update README.md
 d2a1504
  · 
