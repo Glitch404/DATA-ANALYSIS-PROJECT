@@ -4,27 +4,6 @@ FOR IBM INTERNSHIP
 /
 Superstore_Analysis
 
-Type / to search
-Command palette
-Create new...
-Issues
-Pull requests
-You have no unread notifications
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Pane width
-Use a value between 13% and 50%
-
-17
-Change width
-Code
-Go to file
-t
 README.md
 SUPERSTORE DATA ANAYSIS.ipynb
 Documentation • Share feedback
