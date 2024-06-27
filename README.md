@@ -6,9 +6,7 @@ Superstore_Analysis
 
 README.md
 SUPERSTORE DATA ANAYSIS.ipynb
-Documentation • Share feedback
-BreadcrumbsSuperstore_Analysis
-/README.md
+Documentation 
 
 Update README.md
 d2a1504
@@ -21,8 +19,7 @@ Preview
 
 Code
 
-Blame
-62 lines (36 loc) · 4.9 KB
+
 #### Step into the world of a prominent superstore, where everything seemed to be running smoothly - sales were soaring and customers were flooding through the doors. But behind the scenes, a mystery was brewing. Despite these impressive numbers, the store was grappling with a huge financial loss. An investigation as a data analyst was launched to uncover the truth, and what I uncovered will shock you. Join me as I delve deep into years of data, unraveling the hidden story behind the store's struggles and uncovering the clues that will lead to a dramatic turnaround. Get ready to be enthralled in an epic tale of discovery, where the truth was stranger than fiction 
 
 Following my previous discovery in the superstore's data, I took the next step in understanding the issue by performing data cleaning.
